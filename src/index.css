@@ -1,0 +1,11 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+h2{
+  padding: 15px 0;
+}
+.one img{
+  height: 300px !important;
+}
